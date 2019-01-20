@@ -4,7 +4,7 @@ Simple black theme for Openbox.
 
 ## URXVT
 
-URXVT is fast, simple and easy to customizable terminal.
+URXVT is fast, simple and customizable terminal.
 
 ```bash
 sudo apt install urxvt
